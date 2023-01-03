@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishi Dubey
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me @Rishidubey652@gmail.com
 
 <!---
